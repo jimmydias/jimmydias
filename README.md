@@ -1,4 +1,4 @@
-# Olá <h1>👋
+# Olá 👋 <h1>
   
 - 🔭 Trabalho atualmente com administração 
 - 🌱 Aprendendo selenium 
@@ -7,5 +7,5 @@
 - 📫 email: jimmydias@live.com 
 - 😄 Pronomes: ele/dele 
  
-> =D
+> your eyes don't lie
 
